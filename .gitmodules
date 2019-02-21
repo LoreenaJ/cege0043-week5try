@@ -1,0 +1,9 @@
+[submodule "ucfalm1/www/js"]
+	path = ucfalm1/www/js
+	url = https://github.com/LoreenaJ/cege0043-jsReference
+[submodule "ucfalm1/www/css"]
+	path = ucfalm1/www/css
+	url = https://github.com/LoreenaJ/cege0043-cssReference
+[submodule "ucfalm1/www/images"]
+	path = ucfalm1/www/images
+	url = https://github.com/LoreenaJ/cege0043-imagesReference
